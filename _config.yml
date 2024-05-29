@@ -1,11 +1,15 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Product Brain
+description: A knowledge base for all things Digital Product Management and related
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://pmpreis.github.io/productbrain
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+
+ga_tracking: G-45X5PQ7FE5
+ga_tracking_anonymize_ip: true 
 
 plugins:
   - jekyll-default-layout

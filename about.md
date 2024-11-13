@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-nav_order: 10
+nav_order: 12
 ---
 # About page
 

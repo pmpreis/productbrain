@@ -6,7 +6,7 @@ nav_order: 1
 layout: default
 ---
 
-# Overview of Product Management 😃
+# Overview of Product Management
 
 ## Definition and Scope
 

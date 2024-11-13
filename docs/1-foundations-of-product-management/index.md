@@ -32,5 +32,5 @@ In this section, we’ll cover the following areas to help you understand what m
 Dive into each section to build a strong foundation in product management. Ready to start? Head over to [Overview of Product Management](overview-of-product-management) to kick things off!
 
 <div class="nav-buttons">
-    <a href="overview-of-product-management" class="btn btn-primary">Next: Overview of Product Management 👉</a>
+    <a href="1.1-overview-of-product-management" class="btn btn-primary">Next: Overview of Product Management 👉</a>
 </div>

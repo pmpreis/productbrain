@@ -5,7 +5,7 @@ nav_order: 2
 layout: default
 ---
 
-# Foundations of Product Management
+# Foundations of Product Management - changing this just to test!!!!!
 
 Welcome to the Foundations of Product Management! 🎉 This chapter is all about setting up the essential knowledge for anyone diving into the world of product management. Whether you're a newbie, a seasoned pro, or just curious, here’s where you’ll find the core building blocks that define the role, responsibilities, and skills of a product manager.
 

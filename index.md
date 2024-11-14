@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Digital Product Management Knowledge Base"
+title: "Home"
 layout: default
 nav_order: 1
 ---
@@ -10,16 +10,16 @@ Welcome to your ultimate guide to Digital Product Management! This knowledge bas
 
 Explore the topics below to deepen your understanding and gain actionable insights:
 
-- **[Foundations of Product Management](foundations-of-product-management/)**: Learn the essentials of product management, roles, and responsibilities.
-- **[Product Discovery and Customer Insights](product-discovery-and-customer-insights/)**: Discover techniques for identifying user needs and prioritizing opportunities.
-- **[Strategy and Vision](strategy-and-vision/)**: Master the art of defining a product vision and creating a product-led strategy.
-- **[Roadmapping and Planning](roadmapping-and-planning/)**: Dive into roadmapping techniques and flexible planning practices.
-- **[Prioritization Techniques and Decision-Making](prioritization-techniques-and-decision-making/)**: Explore frameworks to prioritize effectively and make impactful decisions.
-- **[Product Development Frameworks and Execution](product-development-frameworks-and-execution/)**: Understand Lean, Agile, and other development methodologies.
-- **[Metrics, Measurement, and Success](metrics-measurement-and-success/)**: Track and measure success using the right metrics.
-- **[Cross-Functional Collaboration and Leadership](cross-functional-collaboration-and-leadership/)**: Build strong partnerships with cross-functional teams.
-- **[Lifecycle Management and Optimization](lifecycle-management-and-optimization/)**: Optimize products across the lifecycle stages.
-- **[Emerging Trends and Future of Product Management](emerging-trends-and-future-of-product-management/)**: Stay ahead with insights into the latest trends, like AI, sustainability, and ethical product development.
+- **[Foundations of Product Management](docs/1-foundations-of-product-management/)**: Learn the essentials of product management, roles, and responsibilities.
+- **[Product Discovery and Customer Insights](docs/2-product-discovery-and-customer-insights/)**: Discover techniques for identifying user needs and prioritizing opportunities.
+- **[Strategy and Vision](docs/3-strategy-and-vision/)**: Master the art of defining a product vision and creating a product-led strategy.
+- **[Roadmapping and Planning](docs/4-roadmapping-and-planning/)**: Dive into roadmapping techniques and flexible planning practices.
+- **[Prioritization Techniques and Decision-Making](docs/5-prioritization-techniques-and-decision-making/)**: Explore frameworks to prioritize effectively and make impactful decisions.
+- **[Product Development Frameworks and Execution](docs/6-product-development-frameworks-and-execution/)**: Understand Lean, Agile, and other development methodologies.
+- **[Metrics, Measurement, and Success](docs/7-metrics-measurement-and-success/)**: Track and measure success using the right metrics.
+- **[Cross-Functional Collaboration and Leadership](docs/8-cross-functional-collaboration-and-leadership/)**: Build strong partnerships with cross-functional teams.
+- **[Lifecycle Management and Optimization](docs/9-lifecycle-management-and-optimization/)**: Optimize products across the lifecycle stages.
+- **[Emerging Trends and Future of Product Management](docs/10-emerging-trends-and-future-of-product-management/)**: Stay ahead with insights into the latest trends, like AI, sustainability, and ethical product development.
 
 ---
 
@@ -48,7 +48,7 @@ This knowledge base is made possible thanks to the contributions and expertise o
 
 ## Ready to Dive In?
 
-Start exploring the knowledge base from **[Chapter 1: Foundations of Product Management](foundations-of-product-management/)**, or jump into any topic that interests you. Let this knowledge base be your trusted companion on your journey to becoming a proficient and impactful product manager.
+Start exploring the knowledge base from **[Chapter 1: Foundations of Product Management](docs/1-foundations-of-product-management/)**, or jump into any topic that interests you. Let this knowledge base be your trusted companion on your journey to becoming a proficient and impactful product manager.
 
 ---
 

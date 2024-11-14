@@ -51,6 +51,6 @@ Product discovery is a fundamental part of building products that users love. By
 ---
 
 <div class="nav-buttons">
-    <a href="/foundations-of-product-management/role-and-skills-of-a-product-manager/" class="btn btn-secondary">👈 Previous: Role and Skills of a Product Manager</a>
-    <a href="/product-discovery-and-customer-insights/continuous-discovery/" class="btn btn-primary">Next: Continuous Discovery 👉</a>
+    <a href="/docs/2-foundations-of-product-management/role-and-skills-of-a-product-manager/" class="btn btn-secondary">👈 Previous: Role and Skills of a Product Manager</a>
+    <a href="/docs/2-product-discovery-and-customer-insights/continuous-discovery/" class="btn btn-primary">Next: Continuous Discovery 👉</a>
 </div>

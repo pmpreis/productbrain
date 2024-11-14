@@ -32,5 +32,5 @@ Airbnb uses prototyping and hypothesis testing to validate ideas before launch. 
 Case studies show that product discovery techniques are crucial to building successful, user-centered products. Use these real-world examples as inspiration for your own discovery process!
 
 <div class="nav-buttons">
-    <a href="/product-discovery-and-customer-insights/prototyping-and-hypothesis-testing/" class="btn btn-secondary">👈 Previous: Prototyping and Hypothesis Testing</a>
+    <a href="/docs/2-product-discovery-and-customer-insights/prototyping-and-hypothesis-testing/" class="btn btn-secondary">👈 Previous: Prototyping and Hypothesis Testing</a>
 </div>

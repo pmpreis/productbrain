@@ -35,7 +35,7 @@ Product managers juggle various activities that span strategy, planning, and exe
 3. **Collaboration**: PMs work closely with cross-functional teams, like engineering, design, and marketing, to bring the product to life.
 4. **Execution and Iteration**: They ensure the product is developed effectively and adapt it based on user feedback and data.
 
-For a deeper dive into each responsibility, check out [Core Responsibilities of a Product Manager](/foundations-of-product-management/core-responsibilities/).
+For a deeper dive into each responsibility, check out [Core Responsibilities of a Product Manager](docs/1-foundations-of-product-management/core-responsibilities/).
 
 ## Why Product Management Matters
 
@@ -52,5 +52,5 @@ Product management is a unique and challenging function that requires strategic 
 ---
 
 <div class="nav-buttons">
-    <a href="/foundations-of-product-management/core-responsibilities/" class="btn btn-primary">Next: Core Responsibilities of a Product Manager 👉</a>
+    <a href="/docs/1-foundations-of-product-management/core-responsibilities/" class="btn btn-primary">Next: Core Responsibilities of a Product Manager 👉</a>
 </div>

@@ -40,6 +40,6 @@ Testing hypotheses ensures that product decisions are grounded in data.
 Prototyping and hypothesis testing support a lean approach to product development, helping teams validate ideas before full-scale implementation.
 
 <div class="nav-buttons">
-    <a href="/product-discovery-and-customer-insights/customer-interviewing-and-feedback-loops/" class="btn btn-secondary">👈 Previous: Customer Interviewing and Feedback Loops</a>
-    <a href="/product-discovery-and-customer-insights/case-studies-and-examples/" class="btn btn-primary">Next: Case Studies and Examples 👉</a>
+    <a href="/docs/2-product-discovery-and-customer-insights/customer-interviewing-and-feedback-loops/" class="btn btn-secondary">👈 Previous: Customer Interviewing and Feedback Loops</a>
+    <a href="/docs/2-product-discovery-and-customer-insights/case-studies-and-examples/" class="btn btn-primary">Next: Case Studies and Examples 👉</a>
 </div>

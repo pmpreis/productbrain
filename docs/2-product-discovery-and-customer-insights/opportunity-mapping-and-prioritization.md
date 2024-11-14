@@ -36,6 +36,6 @@ Once opportunities are mapped, it’s time to prioritize them. Here are some eff
 Opportunity mapping and prioritization provide structure to decision-making, helping product managers focus on what matters most.
 
 <div class="nav-buttons">
-    <a href="/product-discovery-and-customer-insights/continuous-discovery/" class="btn btn-secondary">👈 Previous: Continuous Discovery</a>
-    <a href="/product-discovery-and-customer-insights/customer-interviewing-and-feedback-loops/" class="btn btn-primary">Next: Customer Interviewing and Feedback Loops 👉</a>
+    <a href="/docs/2-product-discovery-and-customer-insights/continuous-discovery/" class="btn btn-secondary">👈 Previous: Continuous Discovery</a>
+    <a href="/docs/2-product-discovery-and-customer-insights/customer-interviewing-and-feedback-loops/" class="btn btn-primary">Next: Customer Interviewing and Feedback Loops 👉</a>
 </div>

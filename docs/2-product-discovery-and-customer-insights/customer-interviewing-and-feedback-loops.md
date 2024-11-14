@@ -40,6 +40,6 @@ Establish feedback loops to maintain a steady stream of user insights.
 Customer interviews and feedback loops keep product managers in tune with user needs, supporting data-driven decisions and continuous improvement.
 
 <div class="nav-buttons">
-    <a href="/product-discovery-and-customer-insights/opportunity-mapping-and-prioritization/" class="btn btn-secondary">👈 Previous: Opportunity Mapping and Prioritization</a>
-    <a href="/product-discovery-and-customer-insights/prototyping-and-hypothesis-testing/" class="btn btn-primary">Next: Prototyping and Hypothesis Testing 👉</a>
+    <a href="/docs/2-product-discovery-and-customer-insights/opportunity-mapping-and-prioritization/" class="btn btn-secondary">👈 Previous: Opportunity Mapping and Prioritization</a>
+    <a href="/docs/2-product-discovery-and-customer-insights/prototyping-and-hypothesis-testing/" class="btn btn-primary">Next: Prototyping and Hypothesis Testing 👉</a>
 </div>

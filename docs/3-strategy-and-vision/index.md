@@ -7,7 +7,7 @@ layout: default
 
 # Strategy and Vision 🌠
 
-Welcome to the Strategy and Vision chapter! This section is all about defining a clear product vision and strategic direction to guide your product efforts. From setting the product's North Star to managing bets and aligning with a product-led strategy, you'll find all the tools and insights you need here.
+Welcome to the **Strategy and Vision** chapter! This section is all about defining a clear product vision and strategic direction to guide your product efforts. From setting the product's **North Star** to managing bets and aligning opportunities with strategy, you'll find all the tools and insights you need here.
 
 ---
 
@@ -22,13 +22,10 @@ This chapter will walk you through the essential components of product strategy 
    Explore the concept of "bets" and understand their role in making strategic product decisions.
 
 3. [Types of Bets](types-of-bets)  
-   Discover different types of bets, including solution-focused, opportunity-focused, and strategy-focused.
+   Discover different types of bets, including solution-focused, opportunity-focused, and exploration-focused.
 
 4. [Risk Management in Bets](risk-management-in-bets)  
    Learn techniques to manage and mitigate risks associated with strategic bets.
-
-5. [Product-Led Strategy](product-led-strategy)  
-   Align your product direction with a product-led strategy that drives growth and supports overall business objectives.
 
 ---
 
@@ -37,5 +34,6 @@ This chapter will walk you through the essential components of product strategy 
 Ready to dive into strategy and vision? Start with [Creating a Product Vision](creating-a-product-vision) to learn how to set a clear direction for your product.
 
 <div class="nav-buttons">
-    <a href="creating-a-product-vision" class="btn btn-primary">Next: Creating a Product Vision 👉</a>
+    <a href="/docs/2-product-discovery-and-customer-insights/index" class="btn btn-secondary">👈 Previous: Product Discovery and Customer Insights</a>
+    <a href="/docs/3-product-strategy-and-vision/creating-a-product-vision" class="btn btn-primary">Next: Creating a Product Vision 👉</a>
 </div>

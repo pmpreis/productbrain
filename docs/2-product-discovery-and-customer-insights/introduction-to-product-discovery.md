@@ -7,50 +7,78 @@ layout: default
 
 # Introduction to Product Discovery 🔍
 
-Product discovery is all about answering a big question: *What should we build?* It’s the process of identifying user needs, validating ideas, and ensuring that what you create will truly add value for your customers. In this section, we’ll set the stage for understanding product discovery and why it’s essential to building successful products.
+Product discovery is the process of continuously learning about your customers—understanding their needs, pain points, and desires—so you can build products that truly add value. This chapter covers the essential techniques, tools, and frameworks that guide discovery, with a focus on **Opportunity Solution Trees** (OSTs) to structure your approach.
 
 ---
 
-## What is Product Discovery?
+## Why Product Discovery Matters
 
-Product discovery is the ongoing process of learning about your users, their needs, and their problems to inform product decisions. It involves a mix of research, testing, and validating ideas to ensure the product is on the right path. In essence, it’s a safeguard against building something nobody wants.
+### 1. Solve the Right Problems 🎯
+Discovery helps you avoid the trap of building features no one needs by focusing on solving real problems for your users.
 
-> 🤔 *Did You Know?* Nearly 50% of product features are rarely or never used. Discovery helps prevent this by focusing on what users actually need!
+### 2. Reduce Risk 🚧
+By validating ideas early, you save time and resources, preventing costly missteps during development.
 
-## Why is Product Discovery Important?
+### 3. Foster Customer-Centricity 🧠
+Great products are built by teams that continuously listen to their customers, adapt, and learn.
 
-1. **Reduces Risk**: Discovery helps validate assumptions, reducing the risk of building features that don’t resonate with users.
-2. **Informs Prioritization**: Learning about user needs guides prioritization decisions, ensuring the team focuses on the highest-impact ideas.
-3. **Aligns Teams**: Product discovery brings cross-functional teams together, creating alignment around user needs and goals.
+> 💡 **Pro Tip**: Discovery isn’t a one-time event—it’s an ongoing process that evolves with your product and customers.
 
-> 🔍 *Pro Tip*: Think of discovery as an investment in understanding. The more you know about your users, the more confidently you can make product decisions.
+---
+
+## The Role of Opportunity Solution Trees in Product Discovery
+
+An **Opportunity Solution Tree (OST)** is a framework that helps product teams systematically link customer problems to potential solutions and experiments. It provides structure and clarity in the discovery process.
+
+### The Structure of an Opportunity Solution Tree
+
+1. **Desired Outcome (Root)**:  
+   The goal you're working towards, such as "Increase user engagement" or "Reduce churn."
+
+2. **Opportunities (Branches)**:  
+   Identified customer needs or pain points that need to be addressed to achieve the desired outcome.
+
+3. **Solutions (Sub-branches)**:  
+   Potential solutions for each identified opportunity, generated through brainstorming or ideation.
+
+4. **Experiments (Leaves)**:  
+   Tests (e.g., A/B tests, prototypes, user interviews) to validate or invalidate the proposed solutions.
 
 ---
 
-## Core Components of Product Discovery
+## The Discovery Process
 
-Product discovery typically involves these key components:
+Product Discovery is not a one-off phase but a continuous cycle that integrates with product delivery. Here's how it fits together:
 
-- **User Research**: Understanding user needs, behaviors, and pain points through interviews, surveys, and observation.
-- **Ideation**: Brainstorming potential solutions to identified user problems.
-- **Prototyping**: Creating low-fidelity models of ideas to quickly test assumptions.
-- **Testing and Validation**: Testing ideas with real users to gather feedback and validate or refine them.
+1. **Map Opportunities**:  
+   Use customer feedback and research to uncover problems and group them into themes.
 
-Each component helps you gather insights and make informed decisions as you move forward in the development process.
+2. **Generate Solutions**:  
+   For each opportunity, brainstorm and generate potential solutions, linking them to customer pain points.
 
-## Discovery as a Continuous Process
+3. **Test and Learn**:  
+   Validate solutions by testing them with customers. This could involve prototypes, experiments, or feedback loops.
 
-In modern product management, discovery isn’t a one-time activity; it’s continuous. This means regularly engaging with users, iterating based on feedback, and updating your understanding as the market and user needs evolve.
-
-> 💡 *Quick Tip*: A continuous discovery mindset keeps you connected to your users and ensures your product remains relevant.
-
-## Conclusion
-
-Product discovery is a fundamental part of building products that users love. By focusing on discovery early and often, you can make better decisions, reduce waste, and create products that truly resonate with your customers.
+![Opportunity Solution Tree](../../assets/images/opportunity-solution-tree.png)  
+*Opportunity Solution Trees help visualize how opportunities, solutions, and experiments connect.*
 
 ---
+
+## How Discovery Fits into Product Development
+
+Discovery and delivery should run in parallel. Teams that embrace **continuous discovery** are able to:
+
+- Learn faster by iterating on customer feedback.
+- Reduce waste by avoiding solutions that don’t work.
+- Deliver value sooner by aligning discovery with delivery efforts.
+
+---
+
+## What’s Next?
+
+Now that you understand the importance of product discovery and Opportunity Solution Trees, let’s explore how to make discovery a continuous practice in [Continuous Discovery](continuous-discovery). 🔄
 
 <div class="nav-buttons">
-    <a href="/docs/2-foundations-of-product-management/role-and-skills-of-a-product-manager/" class="btn btn-secondary">👈 Previous: Role and Skills of a Product Manager</a>
-    <a href="/docs/2-product-discovery-and-customer-insights/continuous-discovery/" class="btn btn-primary">Next: Continuous Discovery 👉</a>
+    <a href="/docs/2-product-discovery-and-customer-insights/index" class="btn btn-secondary">👈 Back to Overview</a>
+    <a href="/docs/2-product-discovery-and-customer-insights/continuous-discovery" class="btn btn-primary">Next: Continuous Discovery 👉</a>
 </div>

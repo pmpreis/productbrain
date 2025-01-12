@@ -1,5 +1,5 @@
 title: Product Brain
-description: A knowledge base for all things Digital Product Management and related
+description: A Digital Product Management knowledge base
 theme: just-the-docs
 
 url: https://pmpreis.github.io/productbrain
@@ -14,3 +14,5 @@ ga_tracking_anonymize_ip: true
 plugins:
   - jekyll-default-layout
   - jekyll-seo-tag
+  
+favicon_ico: "/assets/images/favicon.ico"

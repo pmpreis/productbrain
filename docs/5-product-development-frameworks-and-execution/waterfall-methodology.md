@@ -51,9 +51,9 @@ Waterfall is a **linear process** where each phase must be completed before movi
 
 ---
 
-## Placeholder for Diagram
+## Waterfall steps
 
-![Placeholder for Waterfall Workflow Diagram](../../assets/images/waterfall-methodology-placeholder.png)
+![Waterfall Workflow Diagram](../../assets/images/waterfall-workflow.png)
 
 ---
 

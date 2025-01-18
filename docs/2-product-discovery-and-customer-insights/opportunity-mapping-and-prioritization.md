@@ -72,6 +72,6 @@ Opportunity Mapping and Prioritization are critical steps in product discovery. 
 Now that you understand Opportunity Mapping and Prioritization, let’s dive into **Customer Interviewing and Feedback Loops** to explore how to gather the insights that will fuel your discovery process.
 
 <div class="nav-buttons">
-    <a href="/docs/2-product-discovery-and-customer-insights/continuous-discovery" class="btn btn-secondary">👈 Previous: Continuous Discovery</a>
-    <a href="/docs/2-product-discovery-and-customer-insights/customer-interviewing-and-feedback-loops" class="btn btn-primary">Next: Customer Interviewing and Feedback Loops 👉</a>
+    <a href="../2-product-discovery-and-customer-insights/continuous-discovery" class="btn btn-secondary">👈 Previous: Continuous Discovery</a>
+    <a href="../2-product-discovery-and-customer-insights/customer-interviewing-and-feedback-loops" class="btn btn-primary">Next: Customer Interviewing and Feedback Loops 👉</a>
 </div>

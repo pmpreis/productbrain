@@ -55,6 +55,6 @@ This chapter will explore the following frameworks in depth:
 Product development frameworks are invaluable tools for aligning teams, streamlining processes, and navigating the complexities of modern product management. By understanding the strengths and trade-offs of each framework, you can choose the one that best fits your team’s needs and goals.
 
 <div class="nav-buttons">
-    <a href="/docs/5-product-development-frameworks-and-execution/index" class="btn btn-secondary">👈 Previous: Product Development Frameworks and Execution</a>
-    <a href="/docs/5-product-development-frameworks-and-execution/agile-framework" class="btn btn-primary">Next: Agile Framework 👉</a>
+    <a href="../5-product-development-frameworks-and-execution/index" class="btn btn-secondary">👈 Previous: Product Development Frameworks and Execution</a>
+    <a href="../5-product-development-frameworks-and-execution/agile-framework" class="btn btn-primary">Next: Agile Framework 👉</a>
 </div>

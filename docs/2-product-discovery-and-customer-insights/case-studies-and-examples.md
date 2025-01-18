@@ -71,6 +71,6 @@ By adopting a structured product discovery approach, Vueling:
 Next, we'll delve into **2.7 Tools and Resources for Product Discovery**, where we'll explore various tools and resources to aid in your product discovery efforts.
 
 <div class="nav-buttons">
-    <a href="/docs/2-product-discovery-and-customer-insights/prototyping-and-hypothesis-testing" class="btn btn-secondary">👈 Previous: Prototyping and Hypothesis Testing</a>
-    <a href="/docs/2-product-discovery-and-customer-insights/tools-and-resources-for-product-discovery" class="btn btn-primary">Next: Tools and Resources for Product Discovery 👉</a>
+    <a href="../2-product-discovery-and-customer-insights/prototyping-and-hypothesis-testing" class="btn btn-secondary">👈 Previous: Prototyping and Hypothesis Testing</a>
+    <a href="../2-product-discovery-and-customer-insights/tools-and-resources-for-product-discovery" class="btn btn-primary">Next: Tools and Resources for Product Discovery 👉</a>
 </div>

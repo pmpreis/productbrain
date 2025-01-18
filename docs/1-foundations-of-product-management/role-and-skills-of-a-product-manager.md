@@ -74,6 +74,6 @@ The product manager’s role is dynamic and evolves as they grow in their career
 ---
 
 <div class="nav-buttons">
-    <a href="/docs/1-foundations-of-product-management/types-of-product-managers" class="btn btn-secondary">👈 Previous: Types of Product Managers</a>
-    <a href="/docs/2-product-discovery-and-customer-insights/index" class="btn btn-primary">Next: Product Discovery and Customer Insights 👉</a>
+    <a href="../1-foundations-of-product-management/types-of-product-managers" class="btn btn-secondary">👈 Previous: Types of Product Managers</a>
+    <a href="../2-product-discovery-and-customer-insights/index" class="btn btn-primary">Next: Product Discovery and Customer Insights 👉</a>
 </div>

@@ -88,6 +88,6 @@ Product discovery is a continuous, iterative process, and using the right tools 
 Next, we’ll explore how to structure your product discovery process and align it with business goals.
 
 <div class="nav-buttons">
-    <a href="/docs/2-product-discovery-and-customer-insights/case-studies-and-examples" class="btn btn-secondary">👈 Previous: Case Studies and Examples</a>
-    <a href="/docs/2-product-discovery-and-customer-insights/roadmap-for-product-discovery" class="btn btn-primary">Next: Roadmap for Product Discovery 👉</a>
+    <a href="../2-product-discovery-and-customer-insights/case-studies-and-examples" class="btn btn-secondary">👈 Previous: Case Studies and Examples</a>
+    <a href="../2-product-discovery-and-customer-insights/roadmap-for-product-discovery" class="btn btn-primary">Next: Roadmap for Product Discovery 👉</a>
 </div>

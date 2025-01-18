@@ -124,6 +124,6 @@ Visit [Scrum.org](https://www.scrum.org) for in-depth information on Scrum and [
 The Agile Framework revolutionized product development by promoting collaboration, flexibility, and iterative improvement. Whether adopting Scrum or Kanban, Agile empowers teams to build products that deliver value faster and adapt to changing needs.
 
 <div class="nav-buttons">
-    <a href="/docs/5-product-development-frameworks-and-execution/introduction-to-product-development-frameworks" class="btn btn-secondary">👈 Previous: Introduction to Product Development Frameworks</a>
-    <a href="/docs/5-product-development-frameworks-and-execution/waterfall-methodology" class="btn btn-primary">Next: Waterfall Methodology 👉</a>
+    <a href="../5-product-development-frameworks-and-execution/introduction-to-product-development-frameworks" class="btn btn-secondary">👈 Previous: Introduction to Product Development Frameworks</a>
+    <a href="../5-product-development-frameworks-and-execution/waterfall-methodology" class="btn btn-primary">Next: Waterfall Methodology 👉</a>
 </div>

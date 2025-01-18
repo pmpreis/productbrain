@@ -114,6 +114,6 @@ Prototyping and hypothesis testing are core practices in product discovery. By f
 Next, let’s explore **Case Studies and Examples**, where we’ll look at real-world applications of discovery techniques.
 
 <div class="nav-buttons">
-    <a href="/docs/2-product-discovery-and-customer-insights/customer-interviewing-and-feedback-loops" class="btn btn-secondary">👈 Previous: Customer Interviewing and Feedback Loops</a>
-    <a href="/docs/2-product-discovery-and-customer-insights/case-studies-and-examples" class="btn btn-primary">Next: Case Studies and Examples 👉</a>
+    <a href="../2-product-discovery-and-customer-insights/customer-interviewing-and-feedback-loops" class="btn btn-secondary">👈 Previous: Customer Interviewing and Feedback Loops</a>
+    <a href="../2-product-discovery-and-customer-insights/case-studies-and-examples" class="btn btn-primary">Next: Case Studies and Examples 👉</a>
 </div>	

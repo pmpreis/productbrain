@@ -73,6 +73,6 @@ Use a confidence scoring system (e.g., High, Medium, Low) to assess progress and
 Risk management is critical for successful product development. By prioritizing discovery, starting small, and iterating through experimentation, you can minimize risks while pursuing impactful opportunities. Remember: every bet comes with risks, but the right approach ensures those risks are worth taking.
 
 <div class="nav-buttons">
-    <a href="/docs/3-product-strategy-and-vision/types-of-bets" class="btn btn-secondary">👈 Previous: Types of Bets</a>
-    <a href="/docs/4-roadmapping-and-planning/index" class="btn btn-primary">Next: Roadmapping and Planning 👉</a>
+    <a href="../3-product-strategy-and-vision/types-of-bets" class="btn btn-secondary">👈 Previous: Types of Bets</a>
+    <a href="../4-roadmapping-and-planning/index" class="btn btn-primary">Next: Roadmapping and Planning 👉</a>
 </div>

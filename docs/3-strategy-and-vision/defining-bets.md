@@ -89,6 +89,6 @@ Discovery is essential for refining and validating bets.
 Defining bets is about aligning strategic goals with validated customer insights. By focusing on opportunities, testing hypotheses, and iterating through discovery, teams can make informed, impactful decisions that drive product success.
 
 <div class="nav-buttons">
-    <a href="/docs/3-product-strategy-and-vision/creating-a-product-vision" class="btn btn-secondary">👈 Previous: Creating a Product Vision</a>
-    <a href="/docs/3-product-strategy-and-vision/types-of-bets" class="btn btn-primary">Next: Types of Bets 👉</a>
+    <a href="../3-product-strategy-and-vision/creating-a-product-vision" class="btn btn-secondary">👈 Previous: Creating a Product Vision</a>
+    <a href="../3-product-strategy-and-vision/types-of-bets" class="btn btn-primary">Next: Types of Bets 👉</a>
 </div>

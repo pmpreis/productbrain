@@ -66,6 +66,6 @@ SAFe claims to help organizations scale Agile across enterprises but often ends 
 
 
 <div class="nav-buttons">
-    <a href="/docs/5-product-development-frameworks-and-execution/waterfall-methodology" class="btn btn-secondary">👈 Previous: Waterfall Methodology</a>
-    <a href="/docs/5-product-development-frameworks-and-execution/user-stories" class="btn btn-primary">Next: User Stories 👉</a>
+    <a href="../5-product-development-frameworks-and-execution/waterfall-methodology" class="btn btn-secondary">👈 Previous: Waterfall Methodology</a>
+    <a href="../5-product-development-frameworks-and-execution/user-stories" class="btn btn-primary">Next: User Stories 👉</a>
 </div>

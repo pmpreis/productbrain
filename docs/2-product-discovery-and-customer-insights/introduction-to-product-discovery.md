@@ -79,6 +79,6 @@ Discovery and delivery should run in parallel. Teams that embrace **continuous d
 Now that you understand the importance of product discovery and Opportunity Solution Trees, let’s explore how to make discovery a continuous practice in [Continuous Discovery](continuous-discovery). 🔄
 
 <div class="nav-buttons">
-    <a href="/docs/2-product-discovery-and-customer-insights/index" class="btn btn-secondary">👈 Back to Overview</a>
-    <a href="/docs/2-product-discovery-and-customer-insights/continuous-discovery" class="btn btn-primary">Next: Continuous Discovery 👉</a>
+    <a href="../2-product-discovery-and-customer-insights/index" class="btn btn-secondary">👈 Back to Overview</a>
+    <a href="../2-product-discovery-and-customer-insights/continuous-discovery" class="btn btn-primary">Next: Continuous Discovery 👉</a>
 </div>

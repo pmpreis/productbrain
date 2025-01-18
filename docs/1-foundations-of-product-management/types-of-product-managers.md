@@ -98,6 +98,6 @@ Each type of product manager brings unique skills and perspectives to the role. 
 ---
 
 <div class="nav-buttons">
-    <a href="/docs/1-foundations-of-product-management/core-responsibilities" class="btn btn-secondary">👈 Previous: Core Responsibilities</a>
-    <a href="/docs/1-foundations-of-product-management/role-and-skills-of-a-product-manager" class="btn btn-primary">Next: Role and Skills of a Product Manager 👉</a>
+    <a href="../1-foundations-of-product-management/core-responsibilities" class="btn btn-secondary">👈 Previous: Core Responsibilities</a>
+    <a href="../1-foundations-of-product-management/role-and-skills-of-a-product-manager" class="btn btn-primary">Next: Role and Skills of a Product Manager 👉</a>
 </div>

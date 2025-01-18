@@ -38,6 +38,6 @@ We’ll cover the essential steps and strategies to master product discovery, in
 Ready to unlock the secrets of Product Discovery? Head over to [Introduction to Product Discovery](introduction-to-product-discovery) to kick things off!
 
 <div class="nav-buttons">
-    <a href="/docs/1-foundations-of-product-management/index" class="btn btn-secondary">👈 Previous: Foundations of Product Management</a>
-    <a href="/docs/2-product-discovery-and-customer-insights/introduction-to-product-discovery" class="btn btn-primary">Next: Introduction to Product Discovery 👉</a>
+    <a href="../1-foundations-of-product-management/index" class="btn btn-secondary">👈 Previous: Foundations of Product Management</a>
+    <a href="../2-product-discovery-and-customer-insights/introduction-to-product-discovery" class="btn btn-primary">Next: Introduction to Product Discovery 👉</a>
 </div>

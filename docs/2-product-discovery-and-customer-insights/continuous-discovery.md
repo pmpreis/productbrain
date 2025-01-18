@@ -77,6 +77,6 @@ Continuous discovery is essential for building products that truly solve custome
 Now that you understand continuous discovery, let’s dive into **Opportunity Mapping and Prioritization** to explore how to identify and prioritize opportunities that will drive your product forward.
 
 <div class="nav-buttons">
-    <a href="/docs/2-product-discovery-and-customer-insights/introduction-to-product-discovery" class="btn btn-secondary">👈 Previous: Introduction to Product Discovery</a>
-    <a href="/docs/2-product-discovery-and-customer-insights/opportunity-mapping-and-prioritization" class="btn btn-primary">Next: Opportunity Mapping and Prioritization 👉</a>
+    <a href="../2-product-discovery-and-customer-insights/introduction-to-product-discovery" class="btn btn-secondary">👈 Previous: Introduction to Product Discovery</a>
+    <a href="../2-product-discovery-and-customer-insights/opportunity-mapping-and-prioritization" class="btn btn-primary">Next: Opportunity Mapping and Prioritization 👉</a>
 </div>

@@ -80,6 +80,6 @@ Customer interviews and feedback loops are essential tools for understanding use
 Next, let’s explore **Prototyping and Hypothesis Testing**, where we’ll turn these insights into actionable experiments.
 
 <div class="nav-buttons">
-    <a href="/docs/2-product-discovery-and-customer-insights/opportunity-mapping-and-prioritization" class="btn btn-secondary">👈 Previous: Opportunity Mapping and Prioritization</a>
-    <a href="/docs/2-product-discovery-and-customer-insights/prototyping-and-hypothesis-testing" class="btn btn-primary">Next: Prototyping and Hypothesis Testing 👉</a>
+    <a href="../2-product-discovery-and-customer-insights/opportunity-mapping-and-prioritization" class="btn btn-secondary">👈 Previous: Opportunity Mapping and Prioritization</a>
+    <a href="../2-product-discovery-and-customer-insights/prototyping-and-hypothesis-testing" class="btn btn-primary">Next: Prototyping and Hypothesis Testing 👉</a>
 </div>

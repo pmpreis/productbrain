@@ -82,6 +82,6 @@ An effective product strategy involves balancing these bet types to ensure short
 Understanding and categorising bets helps teams manage uncertainty, prioritise effectively, and align efforts with strategic goals. By balancing solution, opportunity, and exploration bets, you can drive both immediate impact and long-term growth.
 
 <div class="nav-buttons">
-    <a href="/docs/3-product-strategy-and-vision/defining-bets" class="btn btn-secondary">👈 Previous: Defining Bets</a>
-    <a href="/docs/3-product-strategy-and-vision/risk-management-in-bets" class="btn btn-primary">Next: Risk Management in Bets 👉</a>
+    <a href="../3-product-strategy-and-vision/defining-bets" class="btn btn-secondary">👈 Previous: Defining Bets</a>
+    <a href="../3-product-strategy-and-vision/risk-management-in-bets" class="btn btn-primary">Next: Risk Management in Bets 👉</a>
 </div>

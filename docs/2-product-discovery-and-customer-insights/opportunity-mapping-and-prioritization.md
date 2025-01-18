@@ -24,7 +24,7 @@ An **Opportunity Solution Tree (OST)** is a visual framework that helps you conn
 - **Opportunity Mapping** → Identify and group opportunities.
 - **Opportunity Solution Trees** → Connect opportunities to potential solutions and experiments.
 
-![Opportunity Solution Tree](../../assets/images/opportunity-solution-tree.png)  
+![Opportunity Solution Tree](../../assets/images/Opportunity-Solution-Tree.png)  
 *An Opportunity Solution Tree helps visualize the connection between opportunities, solutions, and experiments.*
 
 ---

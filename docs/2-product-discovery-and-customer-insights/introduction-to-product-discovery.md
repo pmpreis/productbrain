@@ -59,7 +59,7 @@ Product Discovery is not a one-off phase but a continuous cycle that integrates 
 3. **Test and Learn**:  
    Validate solutions by testing them with customers. This could involve prototypes, experiments, or feedback loops.
 
-![Opportunity Solution Tree](../../assets/images/opportunity-solution-tree.png)  
+![Opportunity Solution Tree](../../assets/images/Opportunity-Solution-Tree.png)  
 *Opportunity Solution Trees help visualize how opportunities, solutions, and experiments connect.*
 
 ---

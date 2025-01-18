@@ -96,6 +96,6 @@ User stories typically follow this structure:
 User stories are a simple yet powerful tool for keeping development teams user-focused and Agile. By crafting stories with clear goals, well-defined benefits, and actionable criteria, you can ensure that every feature delivers value.
 
 <div class="nav-buttons">
-    <a href="../5-product-development-frameworks-and-execution/safe" class="btn btn-secondary">👈 Previous: SAFe Framework</a>
+    <a href="../5-product-development-frameworks-and-execution/scaled-agile-framework" class="btn btn-secondary">👈 Previous: SAFe Framework</a>
     <a href="../6-metrics-measurement-and-success/index" class="btn btn-primary">Next: Metrics, Measurement, and Success 👉</a>
 </div>

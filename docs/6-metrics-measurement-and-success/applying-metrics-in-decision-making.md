@@ -80,6 +80,6 @@ Metrics serve as:
 Applying metrics effectively means pairing numbers with context and curiosity. By asking the right questions, analysing trends, and testing hypotheses, product teams can drive impactful decisions that lead to measurable success.
 
 <div class="nav-buttons">
-    <a href="/docs/6-metrics-measurement-and-success/types-of-metrics" class="btn btn-secondary">👈 Previous: Types of Metrics</a>
-    <a href="/docs/6-metrics-measurement-and-success/product-market-fit-metrics" class="btn btn-primary">Next: Product-Market Fit Metrics 👉</a>
+    <a href="../6-metrics-measurement-and-success/types-of-metrics" class="btn btn-secondary">👈 Previous: Types of Metrics</a>
+    <a href="../6-metrics-measurement-and-success/product-market-fit-metrics" class="btn btn-primary">Next: Product-Market Fit Metrics 👉</a>
 </div>

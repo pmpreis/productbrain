@@ -59,6 +59,6 @@ Dive deeper with these resources:
 Measuring product-market fit is not just about tracking metrics—it’s about understanding the intersection of customer needs and your product’s value. By focusing on retention, satisfaction, and growth, you can gauge whether you’re solving the right problems for the right audience.
 
 <div class="nav-buttons">
-    <a href="/docs/6-metrics-measurement-and-success/applying-metrics-in-decision-making" class="btn btn-secondary">👈 Previous: Applying Metrics in Decision-Making</a>
-    <a href="/docs/7-effective-team-collaboration-and-stakeholder-management/index" class="btn btn-primary">Next: Cross-Functional Collaboration and Leadership 👉</a>
+    <a href="../6-metrics-measurement-and-success/applying-metrics-in-decision-making" class="btn btn-secondary">👈 Previous: Applying Metrics in Decision-Making</a>
+    <a href="../7-effective-team-collaboration-and-stakeholder-management/index" class="btn btn-primary">Next: Cross-Functional Collaboration and Leadership 👉</a>
 </div>

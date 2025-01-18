@@ -28,6 +28,6 @@ This chapter will guide you through:
 Ready to master collaboration and stakeholder management? Start with [Collaborating with Cross-Functional Teams](collaborating-with-cross-functional-teams) for actionable strategies to align and work effectively across departments.
 
 <div class="nav-buttons">
-    <a href="/docs/6-metrics-measurement-and-success/product-market-fit-metrics" class="btn btn-secondary">👈 Previous: Metrics, Measurement, and Success</a>
-    <a href="/docs/7-effective-team-collaboration-and-stakeholder-management/collaborating-with-cross-functional-teams" class="btn btn-primary">Next: Collaborating with Cross-Functional Teams 👉</a>
+    <a href="../6-metrics-measurement-and-success/product-market-fit-metrics" class="btn btn-secondary">👈 Previous: Metrics, Measurement, and Success</a>
+    <a href="../7-effective-team-collaboration-and-stakeholder-management/collaborating-with-cross-functional-teams" class="btn btn-primary">Next: Collaborating with Cross-Functional Teams 👉</a>
 </div>

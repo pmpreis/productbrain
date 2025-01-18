@@ -34,6 +34,6 @@ This chapter will cover:
 Ready to dive into metrics and measurement? Start with [Defining Success Metrics](defining-success-metrics) to understand the foundation of effective measurement.
 
 <div class="nav-buttons">
-    <a href="/docs/5-product-development-frameworks-and-execution/scaled-agile-framework" class="btn btn-secondary">👈 Previous: Scaled Agile Framework (SAFe)</a>
-    <a href="/docs/6-metrics-measurement-and-success/defining-success-metrics" class="btn btn-primary">Next: Defining Success Metrics 👉</a>
+    <a href="../5-product-development-frameworks-and-execution/scaled-agile-framework" class="btn btn-secondary">👈 Previous: Scaled Agile Framework (SAFe)</a>
+    <a href="../6-metrics-measurement-and-success/defining-success-metrics" class="btn btn-primary">Next: Defining Success Metrics 👉</a>
 </div>

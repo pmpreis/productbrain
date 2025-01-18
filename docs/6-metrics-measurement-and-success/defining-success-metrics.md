@@ -74,6 +74,6 @@ For deeper insights, check out:
 Defining success metrics is the foundation of a data-driven product culture. By focusing on clear, actionable metrics, teams can align around shared goals and make decisions that drive meaningful outcomes.
 
 <div class="nav-buttons">
-    <a href="/docs/6-metrics-measurement-and-success/index" class="btn btn-secondary">👈 Previous: Metrics, Measurement, and Success</a>
-    <a href="/docs/6-metrics-measurement-and-success/types-of-metrics" class="btn btn-primary">Next: Types of Metrics 👉</a>
+    <a href="../6-metrics-measurement-and-success/index" class="btn btn-secondary">👈 Previous: Metrics, Measurement, and Success</a>
+    <a href="../6-metrics-measurement-and-success/types-of-metrics" class="btn btn-primary">Next: Types of Metrics 👉</a>
 </div>

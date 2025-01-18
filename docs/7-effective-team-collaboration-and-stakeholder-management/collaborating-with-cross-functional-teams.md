@@ -85,6 +85,6 @@ Explore these resources for deeper insights:
 Cross-functional collaboration isn’t just about working together—it’s about aligning goals, communicating effectively, and fostering trust among diverse teams. By implementing these strategies, you can ensure your product team delivers its best work.
 
 <div class="nav-buttons">
-    <a href="/docs/7-effective-team-collaboration-and-stakeholder-management/index" class="btn btn-secondary">👈 Previous: Effective Team Collaboration and Stakeholder Management</a>
-    <a href="/docs/7-effective-team-collaboration-and-stakeholder-management/managing-stakeholders" class="btn btn-primary">Next: Managing Stakeholders 👉</a>
+    <a href="../7-effective-team-collaboration-and-stakeholder-management/index" class="btn btn-secondary">👈 Previous: Effective Team Collaboration and Stakeholder Management</a>
+    <a href="../7-effective-team-collaboration-and-stakeholder-management/managing-stakeholders" class="btn btn-primary">Next: Managing Stakeholders 👉</a>
 </div>

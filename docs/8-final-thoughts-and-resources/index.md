@@ -29,6 +29,6 @@ Congratulations on completing this knowledge base! We've explored the core princ
 Ready for the final stretch? Start with [Key Takeaways](key-takeaways) for a summary of everything you've learned.
 
 <div class="nav-buttons">
-    <a href="/docs/7-effective-team-collaboration-and-stakeholder-management/index" class="btn btn-secondary">👈 Previous: Effective Team Collaboration and Stakeholder Management</a>
-    <a href="/docs/8-final-thoughts-and-resources/key-takeaways" class="btn btn-primary">Next: Key Takeaways 👉</a>
+    <a href="../7-effective-team-collaboration-and-stakeholder-management/index" class="btn btn-secondary">👈 Previous: Effective Team Collaboration and Stakeholder Management</a>
+    <a href="../8-final-thoughts-and-resources/key-takeaways" class="btn btn-primary">Next: Key Takeaways 👉</a>
 </div>

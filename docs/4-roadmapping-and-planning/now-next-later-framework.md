@@ -116,6 +116,6 @@ This framework is ideal for:
 The Now-Next-Later framework is a practical and adaptable approach for managing roadmap priorities. By balancing clarity with flexibility, it helps teams focus on delivering immediate value while keeping long-term goals in sight.
 
 <div class="nav-buttons">
-    <a href="/docs/4-roadmapping-and-planning/aligning-roadmaps-with-vision-and-bets" class="btn btn-secondary">👈 Previous: Aligning Roadmaps with Vision and Bets</a>
-    <a href="/docs/4-roadmapping-and-planning/prioritization-and-sequencing" class="btn btn-primary">Next: Prioritization and Sequencing 👉</a>
+    <a href="../4-roadmapping-and-planning/aligning-roadmaps-with-vision-and-bets" class="btn btn-secondary">👈 Previous: Aligning Roadmaps with Vision and Bets</a>
+    <a href="../4-roadmapping-and-planning/prioritization-and-sequencing" class="btn btn-primary">Next: Prioritization and Sequencing 👉</a>
 </div>

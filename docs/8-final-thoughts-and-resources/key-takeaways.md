@@ -52,6 +52,6 @@ Product management is a dynamic, multi-faceted role that requires strategic thin
 ---
 
 <div class="nav-buttons">
-    <a href="/docs/8-final-thoughts-and-resources/index" class="btn btn-secondary">👈 Previous: Final Thoughts and Resources</a>
-    <a href="/docs/8-final-thoughts-and-resources/emerging-trends-in-product-management" class="btn btn-primary">Next: Emerging Trends in Product Management 👉</a>
+    <a href="../8-final-thoughts-and-resources/index" class="btn btn-secondary">👈 Previous: Final Thoughts and Resources</a>
+    <a href="../8-final-thoughts-and-resources/emerging-trends-in-product-management" class="btn btn-primary">Next: Emerging Trends in Product Management 👉</a>
 </div>

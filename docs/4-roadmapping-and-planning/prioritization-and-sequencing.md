@@ -98,6 +98,6 @@ Sequence work based on the value it delivers to users and the business.
 Prioritization and sequencing are vital for ensuring that roadmaps deliver maximum impact. By combining structured frameworks with strategic sequencing, you can create a roadmap that is both actionable and adaptable.
 
 <div class="nav-buttons">
-    <a href="/docs/4-roadmapping-and-planning/now-next-later-framework" class="btn btn-secondary">👈 Previous: Now-Next-Later Framework</a>
-    <a href="/docs/4-roadmapping-and-planning/communicating-and-updating-roadmap" class="btn btn-primary">Next: Communicating and Updating the Roadmap 👉</a>
+    <a href="../4-roadmapping-and-planning/now-next-later-framework" class="btn btn-secondary">👈 Previous: Now-Next-Later Framework</a>
+    <a href="../4-roadmapping-and-planning/communicating-and-updating-roadmap" class="btn btn-primary">Next: Communicating and Updating the Roadmap 👉</a>
 </div>

@@ -85,6 +85,6 @@ Explore these resources for deeper insights:
 Managing stakeholders is about balancing interests, aligning priorities, and maintaining open communication. By implementing these strategies, you’ll build trust and drive alignment toward product success.
 
 <div class="nav-buttons">
-    <a href="/docs/7-effective-team-collaboration-and-stakeholder-management/collaborating-with-cross-functional-teams" class="btn btn-secondary">👈 Previous: Collaborating with Cross-Functional Teams</a>
-    <a href="/docs/8-lifecycle-management-and-optimization/index" class="btn btn-primary">Next: Lifecycle Management and Optimization 👉</a>
+    <a href="../7-effective-team-collaboration-and-stakeholder-management/collaborating-with-cross-functional-teams" class="btn btn-secondary">👈 Previous: Collaborating with Cross-Functional Teams</a>
+    <a href="../8-lifecycle-management-and-optimization/index" class="btn btn-primary">Next: Lifecycle Management and Optimization 👉</a>
 </div>

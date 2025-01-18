@@ -79,6 +79,6 @@ For additional information, check out:
 The Waterfall Methodology, while historically significant, is largely considered a relic in modern product management. Its rigid structure and delayed feedback loops make it unsuitable for the fast-changing, iterative nature of today’s digital products. Though there are niche use cases where Waterfall might apply, most teams are better served by Agile or other flexible approaches.
 
 <div class="nav-buttons">
-    <a href="/docs/5-product-development-frameworks-and-execution/agile-framework" class="btn btn-secondary">👈 Previous: Agile Framework</a>
-    <a href="/docs/5-product-development-frameworks-and-execution/scaled-agile-framework" class="btn btn-primary">Next: Scaled Agile Framework (SAFe) 👉</a>
+    <a href="../5-product-development-frameworks-and-execution/agile-framework" class="btn btn-secondary">👈 Previous: Agile Framework</a>
+    <a href="../5-product-development-frameworks-and-execution/scaled-agile-framework" class="btn btn-primary">Next: Scaled Agile Framework (SAFe) 👉</a>
 </div>

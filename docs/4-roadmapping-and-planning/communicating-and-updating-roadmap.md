@@ -84,6 +84,6 @@ Consider using tools and templates to make roadmap communication seamless:
 A roadmap isn’t just a plan—it’s a conversation starter. By tailoring communication, encouraging collaboration, and keeping the roadmap up-to-date, product managers can foster trust and alignment across teams and stakeholders.
 
 <div class="nav-buttons">
-    <a href="/docs/4-roadmapping-and-planning/prioritizing-and-sequencing" class="btn btn-secondary">👈 Previous: Prioritizing and sequencing</a>
-    <a href="/docs/5-product-development-frameworks-and-execution" class="btn btn-primary">Next: Product development frameworks and execution 👉</a>
+    <a href="../4-roadmapping-and-planning/prioritizing-and-sequencing" class="btn btn-secondary">👈 Previous: Prioritizing and sequencing</a>
+    <a href="../5-product-development-frameworks-and-execution" class="btn btn-primary">Next: Product development frameworks and execution 👉</a>
 </div>

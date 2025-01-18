@@ -35,6 +35,6 @@ Product development frameworks guide how teams turn ideas into reality. This cha
 Start with [Introduction to Product Development Frameworks](introduction-to-product-development-frameworks) to explore your options.
 
 <div class="nav-buttons">
-    <a href="/docs/4-roadmapping-and-planning/index" class="btn btn-secondary">👈 Previous: Roadmapping and Planning</a>
-    <a href="/docs/5-product-development-frameworks-and-execution/introduction-to-product-development-frameworks" class="btn btn-primary">Next: Introduction to Product Development Frameworks 👉</a>
+    <a href="../4-roadmapping-and-planning/index" class="btn btn-secondary">👈 Previous: Roadmapping and Planning</a>
+    <a href="../5-product-development-frameworks-and-execution/introduction-to-product-development-frameworks" class="btn btn-primary">Next: Introduction to Product Development Frameworks 👉</a>
 </div>

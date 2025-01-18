@@ -66,6 +66,6 @@ Explore resources to stay ahead of these trends:
 The future of product management is exciting and full of challenges. By staying informed and embracing these trends, you can create products that are not just relevant today but resilient for tomorrow.
 
 <div class="nav-buttons">
-    <a href="/docs/8-final-thoughts-and-resources/key-takeaways" class="btn btn-secondary">👈 Previous: Key Takeaways</a>
-    <a href="/docs/8-final-thoughts-and-resources/additional-resources" class="btn btn-primary">Next: Additional Resources 👉</a>
+    <a href="../8-final-thoughts-and-resources/key-takeaways" class="btn btn-secondary">👈 Previous: Key Takeaways</a>
+    <a href="../8-final-thoughts-and-resources/additional-resources" class="btn btn-primary">Next: Additional Resources 👉</a>
 </div>

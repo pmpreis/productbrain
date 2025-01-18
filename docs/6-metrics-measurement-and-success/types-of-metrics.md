@@ -73,6 +73,6 @@ Selecting the right metrics depends on the stage of your product and your busine
 Different types of metrics provide diverse perspectives on your product’s success. By categorizing and prioritizing metrics, you can make data-driven decisions that align with your business objectives.
 
 <div class="nav-buttons">
-    <a href="/docs/6-metrics-measurement-and-success/defining-success-metrics" class="btn btn-secondary">👈 Previous: Defining Success Metrics</a>
-    <a href="/docs/6-metrics-measurement-and-success/applying-metrics-in-decision-making" class="btn btn-primary">Next: Applying Metrics in Decision-Making 👉</a>
+    <a href="../6-metrics-measurement-and-success/defining-success-metrics" class="btn btn-secondary">👈 Previous: Defining Success Metrics</a>
+    <a href="../6-metrics-measurement-and-success/applying-metrics-in-decision-making" class="btn btn-primary">Next: Applying Metrics in Decision-Making 👉</a>
 </div>

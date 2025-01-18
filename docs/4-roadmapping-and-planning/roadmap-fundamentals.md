@@ -63,6 +63,6 @@ Roadmaps often use **time horizons** to organize priorities and communicate expe
 A roadmap is not just a list of features—it's a strategic tool for communication, alignment, and decision-making. By focusing on outcomes, maintaining flexibility, and aligning with the product vision, you can create a roadmap that drives real impact.
 
 <div class="nav-buttons">
-    <a href="/docs/4-roadmapping-and-planning" class="btn btn-secondary">👈 Previous: Roadmapping and Planning Overview</a>
-    <a href="/docs/4-roadmapping-and-planning/aligning-roadmaps-with-vision-and-bets" class="btn btn-primary">Next: Aligning Roadmaps with Vision and Bets 👉</a>
+    <a href="../4-roadmapping-and-planning" class="btn btn-secondary">👈 Previous: Roadmapping and Planning Overview</a>
+    <a href="../4-roadmapping-and-planning/aligning-roadmaps-with-vision-and-bets" class="btn btn-primary">Next: Aligning Roadmaps with Vision and Bets 👉</a>
 </div>

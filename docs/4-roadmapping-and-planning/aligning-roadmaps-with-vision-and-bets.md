@@ -72,6 +72,6 @@ Validate roadmap items with a simple checklist:
 Aligning your roadmap with the product vision and strategic bets transforms it from a simple planning tool into a strategic compass. By consistently evaluating and validating roadmap items through the lens of alignment, you can ensure that your team’s work drives real impact for both customers and the business.
 
 <div class="nav-buttons">
-    <a href="/docs/4-roadmapping-and-planning/roadmap-fundamentals" class="btn btn-secondary">👈 Previous: Roadmap Fundamentals</a>
-    <a href="/docs/4-roadmapping-and-planning/now-next-later-framework" class="btn btn-primary">Next: Now-Next-Later Framework 👉</a>
+    <a href="../4-roadmapping-and-planning/roadmap-fundamentals" class="btn btn-secondary">👈 Previous: Roadmap Fundamentals</a>
+    <a href="../4-roadmapping-and-planning/now-next-later-framework" class="btn btn-primary">Next: Now-Next-Later Framework 👉</a>
 </div>

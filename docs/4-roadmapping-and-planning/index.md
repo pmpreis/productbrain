@@ -33,6 +33,6 @@ Explore best practices for sharing roadmaps with stakeholders, managing expectat
 By the end of this chapter, you'll have the tools to create roadmaps that are adaptable, well-aligned, and clearly communicated to all stakeholders.
 
 <div class="nav-buttons">
-    <a href="/docs/3-strategy-and-vision/types-of-bets" class="btn btn-secondary">👈 Previous: Strategy and Vision</a>
-    <a href="/docs/4-roadmapping-and-planning/roadmap-fundamentals" class="btn btn-primary">Next: Roadmap Fundamentals 👉</a>
+    <a href="../3-strategy-and-vision/types-of-bets" class="btn btn-secondary">👈 Previous: Strategy and Vision</a>
+    <a href="../4-roadmapping-and-planning/roadmap-fundamentals" class="btn btn-primary">Next: Roadmap Fundamentals 👉</a>
 </div>

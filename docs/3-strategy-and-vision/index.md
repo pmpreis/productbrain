@@ -35,5 +35,5 @@ Ready to dive into strategy and vision? Start with [Creating a Product Vision](c
 
 <div class="nav-buttons">
     <a href="../2-product-discovery-and-customer-insights/index" class="btn btn-secondary">👈 Previous: Product Discovery and Customer Insights</a>
-    <a href="../3-product-strategy-and-vision/creating-a-product-vision" class="btn btn-primary">Next: Creating a Product Vision 👉</a>
+    <a href="../3-strategy-and-vision/creating-a-product-vision" class="btn btn-primary">Next: Creating a Product Vision 👉</a>
 </div>

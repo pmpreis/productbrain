@@ -74,6 +74,6 @@ Netflix’s product vision has evolved with the company’s mission to "entertai
 A compelling product vision is the cornerstone of product success. It aligns teams, drives decisions, and ensures that your efforts are focused on delivering value to your users. Remember, your vision is a living document—refine it continuously based on discovery insights.
 
 <div class="nav-buttons">
-    <a href="../3-product-strategy-and-vision/index" class="btn btn-secondary">👈 Previous: Strategy and Vision</a>
-    <a href="../3-product-strategy-and-vision/defining-bets" class="btn btn-primary">Next: Defining Bets 👉</a>
+    <a href="../3-strategy-and-vision/index" class="btn btn-secondary">👈 Previous: Strategy and Vision</a>
+    <a href="../3-strategy-and-vision/defining-bets" class="btn btn-primary">Next: Defining Bets 👉</a>
 </div>

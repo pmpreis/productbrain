@@ -86,3 +86,8 @@ PMs communicate with stakeholders across the organization to keep them informed 
 ## Conclusion
 
 The core responsibilities of a product manager involve setting a clear vision, aligning cross-functional teams, and making data-informed decisions.
+
+<div class="nav-buttons">
+    <a href="/docs/1-foundations-of-product-management/overview-of-product-management" class="btn btn-secondary">👈 Previous: Overview of Product Management</a>
+    <a href="/docs/1-foundations-of-product-management/types-of-product-managers" class="btn btn-primary">Next: Types of Product Managers 👉</a>
+</div>

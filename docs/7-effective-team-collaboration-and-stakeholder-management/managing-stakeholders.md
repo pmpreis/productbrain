@@ -86,5 +86,5 @@ Managing stakeholders is about balancing interests, aligning priorities, and mai
 
 <div class="nav-buttons">
     <a href="../7-effective-team-collaboration-and-stakeholder-management/collaborating-with-cross-functional-teams" class="btn btn-secondary">👈 Previous: Collaborating with Cross-Functional Teams</a>
-    <a href="../8-lifecycle-management-and-optimization/index" class="btn btn-primary">Next: Lifecycle Management and Optimization 👉</a>
+    <a href="../8-final-thoughts-and-resources/index" class="btn btn-primary">Next: Lifecycle Management and Optimization 👉</a>
 </div>

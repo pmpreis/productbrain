@@ -71,5 +71,5 @@ Your journey in product management doesn’t end here! Below is a curated list o
 
 <div class="nav-buttons">
     <a href="../8-final-thoughts-and-resources/emerging-trends-in-product-management" class="btn btn-secondary">👈 Previous: Emerging Trends in Product Management</a>
-    <a href="../8-final-thoughts-and-resources" class="btn btn-primary">Back to Index 👉</a>
+    <a href="../.." class="btn btn-primary">Back to Home 👉</a>
 </div>

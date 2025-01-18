@@ -43,6 +43,6 @@ Product managers are responsible for setting a clear product vision, defining st
 Product management combines elements of strategy, user empathy, and leadership. By balancing user needs with business objectives, PMs create impactful products that achieve market success.
 
 <div class="nav-buttons">
-    <a href="/docs/1-foundations-of-product-management/index" class="btn btn-secondary">👈 Back to Index</a>
-    <a href="/docs/1-foundations-of-product-management/core-responsibilities" class="btn btn-primary">Next: Core Responsibilities 👉</a>
+    <a href="../1-foundations-of-product-management/index" class="btn btn-secondary">👈 Back to Index</a>
+    <a href="../1-foundations-of-product-management/core-responsibilities" class="btn btn-primary">Next: Core Responsibilities 👉</a>
 </div>

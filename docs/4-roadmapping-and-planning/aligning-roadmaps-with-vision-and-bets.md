@@ -46,7 +46,7 @@ If an item doesn’t align, consider whether it’s truly necessary.
 ### Opportunity Mapping
 Visualize how roadmap items tie back to customer problems and strategic bets with tools like opportunity solution trees.
 
-![Opportunity Solution Tree](../../assets/images/opportunity-solution-tree.png)
+![Opportunity Solution Tree](../../assets/images/Opportunity-Solution-Tree.png)
 *"An opportunity solution tree helps connect initiatives to the underlying opportunities and strategic bets they address."*
 
 ### Alignment Checklists

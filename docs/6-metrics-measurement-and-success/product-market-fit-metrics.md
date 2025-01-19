@@ -50,7 +50,7 @@ Achieving product-market fit is one of the most critical milestones for any prod
 
 Dive deeper with these resources:
 - [The Product-Market Fit Survey](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)  
-- [How to Measure Product-Market Fit](https://www.lennyrachitsky.com/p/how-to-know-if-you-have-product-market-fit)
+- [How to Measure Product-Market Fit](https://www.lennysnewsletter.com/p/finding-product-market-fit)
 
 ---
 

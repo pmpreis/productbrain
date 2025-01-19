@@ -54,12 +54,12 @@ Your journey in product management doesn’t end here! Below is a curated list o
 
 1. **Communities**:  
    - [Mind the Product](https://www.mindtheproduct.com/)  
-   - [The Impostor PM](https://www.impostorpm.com/)  
+   - [The Impostor PM](https://www.impostor.pm/)  
 
 2. **Blogs**:  
    - [Teresa Torres’ Product Talk](https://www.producttalk.org/)  
    - [Lenny’s Newsletter](https://www.lennysnewsletter.com/)  
-   - [John Cutler’s Medium](https://medium.com/@johncutlefish)
+   - [John Cutler’s Substack](https://cutlefish.substack.com/)
 
 ---
 

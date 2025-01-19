@@ -57,7 +57,6 @@ Product management is constantly evolving, influenced by new technologies, metho
 Explore resources to stay ahead of these trends:
 - [Product-Led Growth Book by Wes Bush](https://productled.com/book)  
 - [Ethical Design Handbook](https://ethicaldesignhandbook.com)  
-- [AI in Product Management Blog by John Cutler](https://medium.com/@johncutlefish)
 
 ---
 

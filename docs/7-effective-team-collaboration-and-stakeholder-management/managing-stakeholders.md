@@ -75,8 +75,8 @@ Effective stakeholder management helps to:
 ## Want to Learn More?
 
 Explore these resources for deeper insights:
-- [Managing Up Without Tearing Your Hair Out](https://hbr.org/2020/06/managing-up-without-tearing-your-hair-out)  
-- [Stakeholder Management Guide](https://www.atlassian.com/team-playbook/plays/stakeholder-communication)
+- [Managing Up Without Sucking Up](https://hbr.org/2020/06/managing-up-without-sucking-up) 
+- [Stakeholder Theory](https://www.atlassian.com/work-management/project-collaboration/stakeholder-theory)
 
 ---
 

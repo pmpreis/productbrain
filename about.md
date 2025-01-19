@@ -20,8 +20,8 @@ When I’m not working, you’ll find me gaming 🎮, experimenting with dessert
 
 I’d love to hear from you! Whether it’s feedback, questions, or just a hello, feel free to reach out:
 
-- 📧 **Email**: [your.email@example.com](mailto:pedrompinhoreis@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/pedrompreis)  
+- 📧 **Email**: [pedrompinhoreis@gmail.com](mailto:pedrompinhoreis@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/pedrompreis](https://linkedin.com/in/pedrompreis)  
 
 ![Pedro Reis](../../assets/images/pedro-reis.png)
 

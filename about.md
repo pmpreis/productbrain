@@ -23,6 +23,6 @@ I’d love to hear from you! Whether it’s feedback, questions, or just a hello
 - 📧 **Email**: [pedrompinhoreis@gmail.com](mailto:pedrompinhoreis@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/pedrompreis](https://linkedin.com/in/pedrompreis)  
 
-![Pedro Reis](../../assets/images/pedro-reis.png)
+![Pedro Reis](assets/images/pedro-reis.png)
 
 *And that’s me!*
